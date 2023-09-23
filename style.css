@@ -98,7 +98,7 @@ header {
      display: block;
      position: relative;
      padding: 200px 0 200px;
-     background: url(../images/banner-wave.svg);
+     background: url('/banner-wave.svg');
      background-size: cover;
      background-position: bottom;
 }
@@ -183,7 +183,7 @@ header {
 
 .cloud--small {
      top: 55%;
-     background-image: url('../images/cloud-small.svg');
+     background-image: url('/cloud-small.svg');
      width: 100px;
      height: 100px;
      left: 100px;
@@ -193,7 +193,7 @@ header {
      height: 150px;
      top: calc(50% - 50px);
      width: 150px;
-     background-image: url('../images/cloud-medium.svg');
+     background-image: url('/cloud-medium.svg');
      left: -150px;
 }
 
@@ -201,7 +201,7 @@ header {
      height: 200px;
      top: 0;
      width: 200px;
-     background-image: url('../images/cloud-big.svg');
+     background-image: url('/cloud-big.svg');
      left: 200px;
 }
 
